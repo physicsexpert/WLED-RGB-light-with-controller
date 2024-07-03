@@ -5,6 +5,7 @@ WLED是一个开源项目，首先放上[开源地址](https://github.com/Aircoo
 
 ---
 ## 视频地址：https://www.bilibili.com/video/BV1LN411A7Aa/?spm_id_from=333.999.0.0&vd_source=4e3f44990520382b49c509f140bd3ce4
+## 立创开源平台链接：https://oshwhub.com/expert/zi-zhi-wled-kong-zhi-qi
 ## 电路设计分析：https://blog.csdn.net/physicsexpert/article/details/129629626?spm=1001.2014.3001.5502
 ## 关于硬件
 硬件相关的开源资料在hardware文件夹，本项目的pcb采用嘉立创EDA专业版设计，请使用嘉立创EDA专业版打开工程文件，Gerber文件为pcb加工文件，可直接发送至工厂打样
