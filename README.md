@@ -16,3 +16,8 @@ WLED是一个开源项目，首先放上[开源地址](https://github.com/Aircoo
 源码地址：https://github.com/Aircoookie/WLED<br>
 Hacklabs汉化定制版固件安装地址：https://hacklabs.icu:88 或 https://install.hacklabs.icu<br>
 WLED安卓软件下载链接:https://hacklabs.icu:8888/down/VLSmrkTygTQZ.apk 提取码:hacklabs<br>
+### 驱动
+esp32烧录代码需要使用usb转串口芯片ch340，因此需要为电脑安装ch340的驱动程序，点击文件中的setup程序即可
+### 上位机
+上位机为用于配合本控制器实现流光溢彩功能的上位机软件(windows版)
+下载链接:https://hacklabs.icu:8888/down/6Lygml21s8iz.zip 提取码:hacklabs
